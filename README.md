@@ -81,7 +81,7 @@ Pushing a model to Hugging Face needs your own token, shown in `DistilBert` as `
 
 **Team:** Brian Ellis, Lindsey Rich and Elena Kern.
 
-**Lindsey Rich** designed and tuned the CNN and CNN-BiLSTM models: the multi-input architecture using parent comments, the non-text feature input, the attention variants, the Keras Tuner search, and the final test evaluation. She also worked on the shared exploratory analysis and preprocessing.
+**Lindsey Rich** designed and tuned the CNN and CNN-BiLSTM models: the multi-input architecture using parent comments, the non-text feature input, the attention variants, the Keras Tuner search, and the final test evaluation, and also worked on the shared exploratory analysis and preprocessing.
 
 **The wider team** developed the traditional baselines, the RNN and GloVe experiments, and the BERT and DistilBERT models, including the DistilBERT model published on Hugging Face as [`brianellis1997/distilbert-sarcascm-classifier`](https://huggingface.co/brianellis1997/distilbert-sarcascm-classifier).
 
